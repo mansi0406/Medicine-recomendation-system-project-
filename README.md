@@ -2,6 +2,10 @@
 
 This project is an AI-based web application that predicts diseases from user-provided symptoms and recommends suitable medicines. It leverages machine learning techniques to assist in early-stage medical guidance and demonstrates the practical application of AI in healthcare.
 
+
+
+![Web Application Output](ss.png)
+
 ---
 
 ## 📌 Features
